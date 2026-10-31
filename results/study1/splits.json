@@ -1,0 +1,202 @@
+{
+ "main_rare5": {
+  "train": [
+   "bbps-0-1",
+   "bbps-2-3",
+   "cecum",
+   "dyed-lifted-polyps",
+   "dyed-resection-margins",
+   "esophagitis-a",
+   "impacted-stool",
+   "polyps",
+   "pylorus",
+   "retroflex-rectum",
+   "retroflex-stomach",
+   "ulcerative-colitis-grade-1",
+   "ulcerative-colitis-grade-2",
+   "z-line"
+  ],
+  "test": [
+   "ulcerative-colitis-grade-0-1",
+   "barretts",
+   "barretts-short-segment",
+   "ulcerative-colitis-grade-3",
+   "esophagitis-b-d"
+  ]
+ },
+ "family_UC4": {
+  "train": [
+   "barretts",
+   "barretts-short-segment",
+   "bbps-0-1",
+   "bbps-2-3",
+   "cecum",
+   "dyed-lifted-polyps",
+   "dyed-resection-margins",
+   "esophagitis-a",
+   "esophagitis-b-d",
+   "impacted-stool",
+   "polyps",
+   "pylorus",
+   "retroflex-rectum",
+   "retroflex-stomach",
+   "z-line"
+  ],
+  "test": [
+   "ulcerative-colitis-grade-0-1",
+   "ulcerative-colitis-grade-1",
+   "ulcerative-colitis-grade-2",
+   "ulcerative-colitis-grade-3"
+  ]
+ },
+ "family_esophagus4": {
+  "train": [
+   "bbps-0-1",
+   "bbps-2-3",
+   "cecum",
+   "dyed-lifted-polyps",
+   "dyed-resection-margins",
+   "impacted-stool",
+   "polyps",
+   "pylorus",
+   "retroflex-rectum",
+   "retroflex-stomach",
+   "ulcerative-colitis-grade-0-1",
+   "ulcerative-colitis-grade-1",
+   "ulcerative-colitis-grade-2",
+   "ulcerative-colitis-grade-3",
+   "z-line"
+  ],
+  "test": [
+   "barretts",
+   "barretts-short-segment",
+   "esophagitis-a",
+   "esophagitis-b-d"
+  ]
+ },
+ "random5_1": {
+  "train": [
+   "barretts",
+   "bbps-0-1",
+   "bbps-2-3",
+   "cecum",
+   "dyed-lifted-polyps",
+   "dyed-resection-margins",
+   "esophagitis-a",
+   "impacted-stool",
+   "polyps",
+   "pylorus",
+   "ulcerative-colitis-grade-0-1",
+   "ulcerative-colitis-grade-2",
+   "ulcerative-colitis-grade-3",
+   "z-line"
+  ],
+  "test": [
+   "barretts-short-segment",
+   "esophagitis-b-d",
+   "retroflex-rectum",
+   "retroflex-stomach",
+   "ulcerative-colitis-grade-1"
+  ]
+ },
+ "random5_2": {
+  "train": [
+   "barretts",
+   "barretts-short-segment",
+   "bbps-0-1",
+   "bbps-2-3",
+   "cecum",
+   "dyed-resection-margins",
+   "esophagitis-a",
+   "esophagitis-b-d",
+   "polyps",
+   "pylorus",
+   "retroflex-stomach",
+   "ulcerative-colitis-grade-0-1",
+   "ulcerative-colitis-grade-2",
+   "ulcerative-colitis-grade-3"
+  ],
+  "test": [
+   "dyed-lifted-polyps",
+   "impacted-stool",
+   "retroflex-rectum",
+   "ulcerative-colitis-grade-1",
+   "z-line"
+  ]
+ },
+ "random5_3": {
+  "train": [
+   "barretts",
+   "barretts-short-segment",
+   "bbps-0-1",
+   "bbps-2-3",
+   "dyed-lifted-polyps",
+   "esophagitis-a",
+   "esophagitis-b-d",
+   "impacted-stool",
+   "polyps",
+   "pylorus",
+   "retroflex-rectum",
+   "retroflex-stomach",
+   "ulcerative-colitis-grade-0-1",
+   "ulcerative-colitis-grade-3"
+  ],
+  "test": [
+   "cecum",
+   "dyed-resection-margins",
+   "ulcerative-colitis-grade-1",
+   "ulcerative-colitis-grade-2",
+   "z-line"
+  ]
+ },
+ "random5_4": {
+  "train": [
+   "barretts",
+   "barretts-short-segment",
+   "bbps-0-1",
+   "dyed-lifted-polyps",
+   "dyed-resection-margins",
+   "esophagitis-a",
+   "impacted-stool",
+   "polyps",
+   "pylorus",
+   "retroflex-rectum",
+   "retroflex-stomach",
+   "ulcerative-colitis-grade-0-1",
+   "ulcerative-colitis-grade-2",
+   "ulcerative-colitis-grade-3"
+  ],
+  "test": [
+   "bbps-2-3",
+   "cecum",
+   "esophagitis-b-d",
+   "ulcerative-colitis-grade-1",
+   "z-line"
+  ]
+ },
+ "random5_5": {
+  "train": [
+   "barretts",
+   "barretts-short-segment",
+   "cecum",
+   "dyed-lifted-polyps",
+   "dyed-resection-margins",
+   "esophagitis-a",
+   "impacted-stool",
+   "pylorus",
+   "retroflex-rectum",
+   "retroflex-stomach",
+   "ulcerative-colitis-grade-0-1",
+   "ulcerative-colitis-grade-2",
+   "ulcerative-colitis-grade-3",
+   "z-line"
+  ],
+  "test": [
+   "bbps-0-1",
+   "bbps-2-3",
+   "esophagitis-b-d",
+   "polyps",
+   "ulcerative-colitis-grade-1"
+  ]
+ }
+}

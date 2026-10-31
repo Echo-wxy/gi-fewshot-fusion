@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software or its result files, please cite it as below."
+title: "gi-fewshot-fusion: few-shot endoscopic lesion recognition and WSI-omics-clinical survival fusion on public gastrointestinal data"
+version: 1.0.0
+date-released: 2026-10-31
+license: MIT
+type: software
+authors:
+  - name: "gi-fewshot-fusion contributors"
+keywords:
+  - few-shot learning
+  - endoscopy
+  - survival analysis
+  - multimodal fusion
+  - computational pathology
